@@ -1,18 +1,4 @@
 .idea
 .settings
-.project
-package-lock.json
-*.iml
-STDOUT
-*.log
-/output
-/test-output
-/target
-/src/Reports/ExtendReports/*.html
-/src/Reports/JSONReport/*.json
-/src/Reports/ExtentReport/*.*
-/src/Reports/PrettyReport/install/*.*
-.classpath
-.project
-/bin/
+target
 

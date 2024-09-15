@@ -1,0 +1,14 @@
+
+@tag @Home
+Scenario: Validation for Olam Agri Home page                                                              [90m# src/test/resources/Features/001_Home.feature:24[0m
+  [32mGiven [0m[32mLaunch the Olam Agri Home page URL[0m                                                                [90m# com.ecom.stepDefinitions.MainSteps.launch_the_olam_agri_home_page_url()[0m
+  [32mAnd [0m[32mMouse over Menu1 and print menu title and take a screenshot[0m                                         [90m# com.ecom.stepDefinitions.MainSteps.mouse_over_menu1_and_print_menu_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mMouse over Menu2 and print menu title and take a screenshot[0m                                         [90m# com.ecom.stepDefinitions.MainSteps.mouse_over_menu2_and_print_menu_title_and_take_a_screenshot()[0m
+  [32mWhen [0m[32mUser click on the Wood Product menu under Menu2 should display sub pages of the Wood Product menus[0m [90m# com.ecom.stepDefinitions.MainSteps.user_click_on_the_wood_product_menu_under_menu2_should_display_sub_pages_of_the_wood_product_menus()[0m
+  [32mAnd [0m[32mMouse over Menu3 and print menu title and take a screenshot[0m                                         [90m# com.ecom.stepDefinitions.MainSteps.mouse_over_menu3_and_print_menu_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mMouse over Menu4 and print menu title and take a screenshot[0m                                         [90m# com.ecom.stepDefinitions.MainSteps.mouse_over_menu4_and_print_menu_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mMouse over Menu5 and print menu title and take a screenshot[0m                                         [90m# com.ecom.stepDefinitions.MainSteps.mouse_over_menu5_and_print_menu_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mScroll to metrics component section and print the title and take a screenshot[0m                       [90m# com.ecom.stepDefinitions.MainSteps.scroll_to_metrics_component_section_and_print_the_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mScroll to text and asset component section1 and print the title and take a screenshot[0m               [90m# com.ecom.stepDefinitions.MainSteps.scroll_to_text_and_asset_component_section1_and_print_the_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mScroll to product carousel component section and print the title and take a screenshot[0m              [90m# com.ecom.stepDefinitions.MainSteps.scroll_to_product_carousel_component_section_and_print_the_title_and_take_a_screenshot()[0m
+  [32mAnd [0m[32mMouse over each product and print the title and take a screenshot[0m                                   [90m# com.ecom.stepDefinitions.MainSteps.mouse_over_each_product_and_print_the_title_and_take_a_screenshot()[0m
